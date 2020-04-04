@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+img{
+  width:300px;
+  height: 300px;
+}
+
+.card{
+    width:300px;
+    height: 500px;
+}
+.row{
+  width:100%;
+}
+
+#Nvezes{
+  font-size: 34px;
+  color: #C02F1D;
+  margin-left: 240px;
+  margin-top: -24px;
+}
